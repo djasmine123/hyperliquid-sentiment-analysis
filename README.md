@@ -142,11 +142,12 @@ The analysis suggests:
 ## Repository Structure
 
 ```
-Hyperliquid-Trader-Sentiment-Analysis/
-│
-├── Hyperliquid_Trader_Sentiment_Analysis.ipynb
-├── README.md
-└── requirements.txt
+hyperliquid-sentiment-analysis/
+│── Hyperliquid_Trader_Sentiment_Analysis.ipynb
+│── README.md
+│── requirements.txt
+│── Fear vs greed index.pdf
+│── colab link
 ```
 
 ---
@@ -164,6 +165,10 @@ The notebook provides:
 - Business recommendations
 
 ---
+
+## Google Colab
+
+https://colab.research.google.com/drive/1vuG5jbec723aUsxaqcE3Sp3y-rpcO9eE?usp=sharing
 
 ## Author
 
